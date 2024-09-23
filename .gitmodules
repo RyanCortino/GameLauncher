@@ -1,0 +1,6 @@
+[submodule "GameLauncher.BackendService"]
+	path = GameLauncher.BackendService
+	url = https://github.com/RyanCortino/GameLauncher.BackendService.git
+[submodule "GameLauncher.ClientApps"]
+	path = GameLauncher.ClientApps
+	url = https://github.com/RyanCortino/GameLauncher.ClientApps.git
